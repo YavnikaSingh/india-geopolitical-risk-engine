@@ -76,6 +76,16 @@ This is an exploratory analytical framework rather than a validated forecasting 
 - Improve scenario assumptions and sensitivity testing.
 - Add reproducible Python and SQL files.
 - Refine the Power BI dashboard and document the model's limitations.
+- ## Project Documentation
+
+- [Project Guide](PROJECT_GUIDE.md) — file directory and research framework.
+- [Methodology](METHODOLOGY.md) — scoring approach, assumptions, and limitations.
+- [Analytical Findings](ANALYSIS.md) — interpretation of quantitative outputs.
+- [SQL Analysis](sql_analysis.sql) — analytical queries for risk ranking and scenario comparison.
+
+## Dashboard
+
+![India Geopolitical Risk Dashboard](india_geopolitical_risk_dashboard.png.png)
 
 ## Author
 
