@@ -1,0 +1,16 @@
+Risk ID,Risk,Scenario,Scenario Score
+R01,India-US trade tensions,Baseline,2
+R01,India-US trade tensions,Escalation,4
+R01,India-US trade tensions,De-escalation,1
+R02,India-China strategic competition,Baseline,3
+R02,India-China strategic competition,Escalation,5
+R02,India-China strategic competition,De-escalation,2
+R03,West Asia conflict / energy disruption,Baseline,4
+R03,West Asia conflict / energy disruption,Escalation,5
+R03,West Asia conflict / energy disruption,De-escalation,2
+R04,Russia sanctions and energy exposure,Baseline,3
+R04,Russia sanctions and energy exposure,Escalation,5
+R04,Russia sanctions and energy exposure,De-escalation,2
+R05,Global shipping and supply-chain disruption,Baseline,3
+R05,Global shipping and supply-chain disruption,Escalation,5
+R05,Global shipping and supply-chain disruption,De-escalation,2

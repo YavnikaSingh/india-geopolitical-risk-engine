@@ -1,0 +1,6 @@
+Risk ID,Risk,Risk Score,Risk Level,Escalation Score,Score Increase,Relative Increase %
+R01,India-US trade tensions,1.0,Low,4,3.0,300.0
+R02,India-China strategic competition,2.6,Moderate,5,2.4,92.3076923076923
+R03,West Asia conflict / energy disruption,4.0,High,5,1.0,25.0
+R04,Russia sanctions and energy exposure,4.3,High,5,0.7000000000000002,16.279069767441865
+R05,Global shipping and supply-chain disruption,2.95,Moderate,5,2.05,69.4915254237288
